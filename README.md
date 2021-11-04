@@ -1,2 +1,2 @@
 # mini-projeto
- Recriando site com Curso em video
+ Recriando site com @cursoemvideo, @gustavoguanabara
